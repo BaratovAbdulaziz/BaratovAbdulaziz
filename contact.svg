@@ -1,0 +1,41 @@
+<svg viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    a { cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"><circle cx="10" cy="10" r="6" fill="none" stroke="%2314B8A6" stroke-width="2"/><circle cx="10" cy="10" r="2" fill="%2314B8A6"/></svg>') 10 10, pointer; }
+    a:hover .btn { opacity: 0.9; transform: scale(1.05); }
+    a:hover .btn-glow { opacity: 1; }
+  </style>
+  <defs>
+    <linearGradient id="gmail-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EA4335"/>
+      <stop offset="100%" stop-color="#D32F2F"/>
+    </linearGradient>
+    <linearGradient id="tg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2AABEE"/>
+      <stop offset="100%" stop-color="#1A8CDB"/>
+    </linearGradient>
+  </defs>
+
+  <a href="mailto:abdulazizbaratov12@gmail.com">
+    <g transform="translate(28,10)">
+      <rect class="btn" x="0" y="0" width="110" height="40" rx="20" fill="url(#gmail-grad)">
+        <animate attributeName="rx" values="20;18;20" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <rect class="btn-glow" x="0" y="0" width="110" height="40" rx="20" fill="url(#gmail-grad)" opacity="0">
+        <animate attributeName="opacity" values="0;0.5;0" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="55" y="26" fill="white" font-size="13" font-weight="600" font-family="system-ui,sans-serif" text-anchor="middle">Gmail</text>
+    </g>
+  </a>
+
+  <a href="https://t.me/Pathfi1nder">
+    <g transform="translate(162,10)">
+      <rect class="btn" x="0" y="0" width="110" height="40" rx="20" fill="url(#tg-grad)">
+        <animate attributeName="rx" values="20;18;20" dur="2s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+      <rect class="btn-glow" x="0" y="0" width="110" height="40" rx="20" fill="url(#tg-grad)" opacity="0">
+        <animate attributeName="opacity" values="0;0.5;0" dur="2s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+      <text x="55" y="26" fill="white" font-size="13" font-weight="600" font-family="system-ui,sans-serif" text-anchor="middle">Telegram</text>
+    </g>
+  </a>
+</svg>

@@ -32,29 +32,20 @@ Front-end to back-end, concept to deployment. Python, TypeScript, and React — 
 
 ## Projects
 
-### [emotion-link-signaling](https://github.com/BaratovAbdulaziz/emotion-link-signaling) `Node.js` `WebSocket`
-
-> WebSocket signaling server for WebRTC peer connections with room management and real-time message relay.
-
-### [no-borders](https://github.com/BaratovAbdulaziz/no-borders) `Python`
-
-> Cross-platform KVM switch — control multiple computers with one keyboard and mouse over TCP/UDP with auto-discovery.
-
-### [ridges](https://github.com/BaratovAbdulaziz/ridges) `Python` `OpenRouter`
-
-> AI coding agent powered by OpenRouter. Bug localization, patch generation, and git-aware code repair using LLM cascading.
-
-### [split-evenly](https://github.com/BaratovAbdulaziz/split-evenly) `React` `TypeScript` `Supabase` `Tailwind`
-
-> Full-stack expense splitting app — React + TypeScript front-end with Supabase backend and Tailwind CSS.
+<p align="center">
+  <a href="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/projects.svg">
+    <img src="projects.svg" alt="projects" width="100%" />
+  </a>
+</p>
 
 <br>
 
 ## Contact
 
 <p align="center">
-  <a href="mailto:abdulazizbaratov12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/Pathfi1nder"><img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/contact.svg">
+    <img src="contact.svg" alt="contact" width="60%" />
+  </a>
 </p>
 
 <p align="center">

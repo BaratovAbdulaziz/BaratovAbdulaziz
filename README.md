@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/header.svg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/c7f7b66fa39ff88af492d57a7572bfaeb3d5cc33/header.svg" alt="banner" width="100%" />
 </p>
 
 Front-end to back-end, concept to deployment. Python, TypeScript, and React — with PostgreSQL on the backend.
@@ -33,7 +33,7 @@ Front-end to back-end, concept to deployment. Python, TypeScript, and React — 
 ## Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/projects.svg" alt="projects" width="100%" />
+  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/c7f7b66fa39ff88af492d57a7572bfaeb3d5cc33/projects.svg" alt="projects" width="100%" />
 </p>
 
 <br>
@@ -41,7 +41,7 @@ Front-end to back-end, concept to deployment. Python, TypeScript, and React — 
 ## Contact
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/contact.svg" alt="contact" width="100%" />
+  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/c7f7b66fa39ff88af492d57a7572bfaeb3d5cc33/contact.svg" alt="contact" width="100%" />
 </p>
 
 <p align="center">

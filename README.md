@@ -33,26 +33,27 @@ Front-end to back-end, concept to deployment. Python, TypeScript, and React — 
 ## Projects
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/projects.svg">
-    <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/projects.svg" alt="projects" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/projects.svg" alt="projects" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/BaratovAbdulaziz/emotion-link-signaling"><img src="https://img.shields.io/badge/emotion--link--signaling-181818?style=flat-square&logo=github&logoColor=14B8A6" /></a>
-  <a href="https://github.com/BaratovAbdulaziz/no-borders"><img src="https://img.shields.io/badge/no--borders-181818?style=flat-square&logo=github&logoColor=3B82F6" /></a>
-  <a href="https://github.com/BaratovAbdulaziz/ridges"><img src="https://img.shields.io/badge/ridges-181818?style=flat-square&logo=github&logoColor=A855F7" /></a>
-  <a href="https://github.com/BaratovAbdulaziz/split-evenly"><img src="https://img.shields.io/badge/split--evenly-181818?style=flat-square&logo=github&logoColor=DA291C" /></a>
-</p>
+### [emotion-link-signaling](https://github.com/BaratovAbdulaziz/emotion-link-signaling) `Node.js` `WebSocket`
+WebSocket signaling server for WebRTC peer connections with room management and real-time message relay.
+
+### [no-borders](https://github.com/BaratovAbdulaziz/no-borders) `Python`
+Cross-platform KVM switch — control multiple computers with one keyboard and mouse over TCP/UDP with auto-discovery.
+
+### [ridges](https://github.com/BaratovAbdulaziz/ridges) `Python` `OpenRouter`
+AI coding agent powered by OpenRouter. Bug localization, patch generation, and git-aware code repair using LLM cascading.
+
+### [split-evenly](https://github.com/BaratovAbdulaziz/split-evenly) `React` `TypeScript` `Supabase` `Tailwind`
+Full-stack expense splitting app — React + TypeScript front-end with Supabase backend and Tailwind CSS.
 
 <br>
 
 ## Contact
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/contact.svg">
-    <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/contact.svg" alt="contact" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/contact.svg" alt="contact" width="100%" />
 </p>
 <p align="center">
   <a href="mailto:abdulazizbaratov12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>

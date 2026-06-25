@@ -1,35 +1,16 @@
 <svg viewBox="0 0 500 90" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      a { cursor: pointer; }
-      a:hover .btn-bg { stroke-opacity: 0.6; }
-      a:hover .btn-icon { fill-opacity: 0.3; }
-    </style>
-  </defs>
-
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="3.5s" repeatCount="indefinite"/>
-    <a href="mailto:abdulazizbaratov12@gmail.com" target="_blank">
-      <g transform="translate(30, 20)">
-        <rect class="btn-bg" x="0" y="0" width="200" height="46" rx="23" fill="#0d1117" stroke="#EA4335" stroke-width="1" stroke-opacity="0.3"/>
-        <rect class="btn-icon" x="4" y="4" width="38" height="38" rx="19" fill="rgba(218,41,28,0.1)"/>
-        <rect x="14" y="16" width="18" height="14" rx="2" fill="none" stroke="#ea4335" stroke-width="1.5"/>
-        <path d="M32 18L23 25L14 18" fill="none" stroke="#ea4335" stroke-width="1.5" stroke-linecap="round"/>
-        <text x="56" y="28" fill="#ea4335" font-size="12" font-family="system-ui,sans-serif" font-weight="600">abdulazizbaratov12@gmail.com</text>
-      </g>
-    </a>
+  <g transform="translate(30, 20)">
+    <rect x="0" y="0" width="200" height="46" rx="23" fill="#0d1117" stroke="#EA4335" stroke-width="1" stroke-opacity="0.3"/>
+    <rect x="4" y="4" width="38" height="38" rx="19" fill="rgba(218,41,28,0.1)"/>
+    <rect x="14" y="16" width="18" height="14" rx="2" fill="none" stroke="#ea4335" stroke-width="1.5"/>
+    <path d="M32 18L23 25L14 18" fill="none" stroke="#ea4335" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="56" y="28" fill="#ea4335" font-size="12" font-family="system-ui,sans-serif" font-weight="600">abdulazizbaratov12@gmail.com</text>
   </g>
-
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-2; 0,0" dur="3.8s" begin="0.4s" repeatCount="indefinite"/>
-    <a href="https://t.me/Pathfi1nder" target="_blank">
-      <g transform="translate(260, 20)">
-        <rect class="btn-bg" x="0" y="0" width="170" height="46" rx="23" fill="#0d1117" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.2"/>
-        <rect class="btn-icon" x="4" y="4" width="38" height="38" rx="19" fill="rgba(56,189,248,0.08)"/>
-        <path d="M16 27l4 2 3 6 5-10" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        <path d="M18 29l-2 4 6-2" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        <text x="56" y="28" fill="#38bdf8" font-size="12" font-family="system-ui,sans-serif" font-weight="600">@Pathfi1nder</text>
-      </g>
-    </a>
+  <g transform="translate(260, 20)">
+    <rect x="0" y="0" width="170" height="46" rx="23" fill="#0d1117" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.2"/>
+    <rect x="4" y="4" width="38" height="38" rx="19" fill="rgba(56,189,248,0.08)"/>
+    <path d="M16 27l4 2 3 6 5-10" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 29l-2 4 6-2" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="56" y="28" fill="#38bdf8" font-size="12" font-family="system-ui,sans-serif" font-weight="600">@Pathfi1nder</text>
   </g>
 </svg>

@@ -33,7 +33,9 @@ Front-end to back-end, concept to deployment. Python, TypeScript, and React — 
 ## Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/projects.svg" alt="projects" width="100%" />
+  <a href="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/projects.svg">
+    <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/projects.svg" alt="projects" width="100%" />
+  </a>
 </p>
 
 <p align="center">
@@ -48,7 +50,9 @@ Front-end to back-end, concept to deployment. Python, TypeScript, and React — 
 ## Contact
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/contact.svg" alt="contact" width="100%" />
+  <a href="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/contact.svg">
+    <img src="https://raw.githubusercontent.com/BaratovAbdulaziz/BaratovAbdulaziz/main/contact.svg" alt="contact" width="100%" />
+  </a>
 </p>
 <p align="center">
   <a href="mailto:abdulazizbaratov12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>

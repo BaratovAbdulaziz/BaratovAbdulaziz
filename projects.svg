@@ -23,51 +23,64 @@
   </defs>
 
   <g transform="translate(96,96) rotate(1.5)">
-    <rect x="0" y="0" width="560" height="124" rx="14" fill="#0d1117" stroke="#14B8A6" stroke-width="1" stroke-opacity="0.15"/>
-    <rect x="0" y="0" width="560" height="124" rx="14" fill="url(#g-teal)"/>
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="#0d1117" stroke="#14B8A6" stroke-width="1" stroke-opacity="0.15"/>
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="url(#g-teal)"/>
     <text x="24" y="32" fill="#14B8A6" font-size="17" font-weight="700" font-family="system-ui,sans-serif">emotion-link-signaling</text>
     <text x="24" y="48" fill="#14B8A6" font-size="10" letter-spacing="2" font-family="system-ui,sans-serif">WebRTC · Signaling</text>
     <text x="24" y="72" fill="#8b949e" font-size="12" font-family="system-ui,sans-serif">WebSocket signaling server for WebRTC peer connections</text>
     <text x="24" y="90" fill="#8b949e" font-size="12" font-family="system-ui,sans-serif">with room management and real-time message relay.</text>
-    <image href="https://img.shields.io/badge/Node.js-181818?style=flat-square&amp;logo=nodedotjs&amp;logoColor=14B8A6" x="24" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/WebSocket-181818?style=flat-square&amp;logo=socketdotio&amp;logoColor=14B8A6" x="134" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/Source-181818?style=flat-square&amp;logo=github&amp;logoColor=14B8A6" x="310" y="98" height="20"/>
+    <rect x="24" y="100" width="64" height="20" rx="4" fill="#151515"/>
+    <text x="32" y="114" fill="#14B8A6" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Node.js</text>
+    <rect x="96" y="100" width="76" height="20" rx="4" fill="#151515"/>
+    <text x="104" y="114" fill="#14B8A6" font-size="10" font-family="system-ui,sans-serif" font-weight="600">WebSocket</text>
+    <rect x="180" y="100" width="58" height="20" rx="4" fill="#151515"/>
+    <text x="188" y="114" fill="#14B8A6" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Source</text>
   </g>
 
   <g transform="translate(64,64) rotate(-1)">
-    <rect x="0" y="0" width="560" height="124" rx="14" fill="#0d1117" stroke="#3B82F6" stroke-width="1" stroke-opacity="0.15"/>
-    <rect x="0" y="0" width="560" height="124" rx="14" fill="url(#g-blue)"/>
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="#0d1117" stroke="#3B82F6" stroke-width="1" stroke-opacity="0.15"/>
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="url(#g-blue)"/>
     <text x="24" y="32" fill="#3B82F6" font-size="17" font-weight="700" font-family="system-ui,sans-serif">no-borders</text>
     <text x="24" y="48" fill="#3B82F6" font-size="10" letter-spacing="2" font-family="system-ui,sans-serif">Networking · KVM</text>
     <text x="24" y="72" fill="#8b949e" font-size="12" font-family="system-ui,sans-serif">Cross-platform KVM switch — control multiple computers</text>
     <text x="24" y="90" fill="#8b949e" font-size="12" font-family="system-ui,sans-serif">with one keyboard and mouse over TCP/UDP with auto-discovery.</text>
-    <image href="https://img.shields.io/badge/Python-181818?style=flat-square&amp;logo=python&amp;logoColor=3B82F6" x="24" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/Source-181818?style=flat-square&amp;logo=github&amp;logoColor=3B82F6" x="134" y="98" height="20"/>
+    <rect x="24" y="100" width="54" height="20" rx="4" fill="#151515"/>
+    <text x="32" y="114" fill="#3B82F6" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Python</text>
+    <rect x="86" y="100" width="58" height="20" rx="4" fill="#151515"/>
+    <text x="94" y="114" fill="#3B82F6" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Source</text>
   </g>
 
   <g transform="translate(32,32) rotate(0.5)">
-    <rect x="0" y="0" width="560" height="124" rx="14" fill="#0d1117" stroke="#A855F7" stroke-width="1" stroke-opacity="0.15"/>
-    <rect x="0" y="0" width="560" height="124" rx="14" fill="url(#g-purple)"/>
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="#0d1117" stroke="#A855F7" stroke-width="1" stroke-opacity="0.15"/>
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="url(#g-purple)"/>
     <text x="24" y="32" fill="#A855F7" font-size="17" font-weight="700" font-family="system-ui,sans-serif">ridges</text>
     <text x="24" y="48" fill="#A855F7" font-size="10" letter-spacing="2" font-family="system-ui,sans-serif">AI · Developer Tools</text>
     <text x="24" y="72" fill="#8b949e" font-size="12" font-family="system-ui,sans-serif">AI coding agent powered by OpenRouter. Bug localization,</text>
     <text x="24" y="90" fill="#8b949e" font-size="12" font-family="system-ui,sans-serif">patch generation, and git-aware code repair using LLM cascading.</text>
-    <image href="https://img.shields.io/badge/Python-181818?style=flat-square&amp;logo=python&amp;logoColor=A855F7" x="24" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/OpenRouter-181818?style=flat-square&amp;logo=openai&amp;logoColor=A855F7" x="134" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/Source-181818?style=flat-square&amp;logo=github&amp;logoColor=A855F7" x="310" y="98" height="20"/>
+    <rect x="24" y="100" width="54" height="20" rx="4" fill="#151515"/>
+    <text x="32" y="114" fill="#A855F7" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Python</text>
+    <rect x="86" y="100" width="82" height="20" rx="4" fill="#151515"/>
+    <text x="94" y="114" fill="#A855F7" font-size="10" font-family="system-ui,sans-serif" font-weight="600">OpenRouter</text>
+    <rect x="176" y="100" width="58" height="20" rx="4" fill="#151515"/>
+    <text x="184" y="114" fill="#A855F7" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Source</text>
   </g>
 
   <g transform="translate(0,0) rotate(-0.5)">
-    <rect x="0" y="0" width="560" height="124" rx="14" fill="#0d1117" stroke="#DA291C" stroke-width="1" stroke-opacity="0.15"/>
-    <rect x="0" y="0" width="560" height="124" rx="14" fill="url(#g-red)"/>
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="#0d1117" stroke="#DA291C" stroke-width="1" stroke-opacity="0.15"/>
+    <rect x="0" y="0" width="560" height="130" rx="14" fill="url(#g-red)"/>
     <text x="24" y="32" fill="#DA291C" font-size="17" font-weight="700" font-family="system-ui,sans-serif">split-evenly</text>
     <text x="24" y="48" fill="#DA291C" font-size="10" letter-spacing="2" font-family="system-ui,sans-serif">Full-stack · Finance</text>
     <text x="24" y="72" fill="#8b949e" font-size="12" font-family="system-ui,sans-serif">Full-stack expense splitting app — React + TypeScript</text>
     <text x="24" y="90" fill="#8b949e" font-size="12" font-family="system-ui,sans-serif">front-end with Supabase backend and Tailwind CSS.</text>
-    <image href="https://img.shields.io/badge/React-181818?style=flat-square&amp;logo=react&amp;logoColor=DA291C" x="24" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/TypeScript-181818?style=flat-square&amp;logo=typescript&amp;logoColor=DA291C" x="104" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/Supabase-181818?style=flat-square&amp;logo=supabase&amp;logoColor=DA291C" x="214" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/Tailwind-181818?style=flat-square&amp;logo=tailwindcss&amp;logoColor=DA291C" x="314" y="98" height="20"/>
-    <image href="https://img.shields.io/badge/Source-181818?style=flat-square&amp;logo=github&amp;logoColor=DA291C" x="414" y="98" height="20"/>
+    <rect x="24" y="100" width="50" height="20" rx="4" fill="#151515"/>
+    <text x="32" y="114" fill="#DA291C" font-size="10" font-family="system-ui,sans-serif" font-weight="600">React</text>
+    <rect x="82" y="100" width="78" height="20" rx="4" fill="#151515"/>
+    <text x="90" y="114" fill="#DA291C" font-size="10" font-family="system-ui,sans-serif" font-weight="600">TypeScript</text>
+    <rect x="168" y="100" width="76" height="20" rx="4" fill="#151515"/>
+    <text x="176" y="114" fill="#DA291C" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Supabase</text>
+    <rect x="252" y="100" width="64" height="20" rx="4" fill="#151515"/>
+    <text x="260" y="114" fill="#DA291C" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Tailwind</text>
+    <rect x="324" y="100" width="58" height="20" rx="4" fill="#151515"/>
+    <text x="332" y="114" fill="#DA291C" font-size="10" font-family="system-ui,sans-serif" font-weight="600">Source</text>
   </g>
 </svg>

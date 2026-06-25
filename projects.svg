@@ -1,11 +1,12 @@
 <svg viewBox="0 0 700 520" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    a { cursor: pointer; }
+    a:hover .card-bg { stroke: var(--c); stroke-width: 2; }
+    a:hover .card-title { fill: var(--c); }
+    a:hover .card-glow { opacity: 0.8; }
+    a:hover { filter: drop-shadow(0 4px 12px rgba(0,0,0,0.4)); }
+  </style>
   <defs>
-    <style>
-      a { cursor: pointer; }
-      a:hover .card-bg { stroke-opacity: 0.5; }
-      a:hover .card-title { fill: var(--c); }
-      a:hover .card-glow { opacity: 1; }
-    </style>
     <linearGradient id="g-teal" x1="0" y1="0" x2="1" y2="1">
       <stop offset="30%" stop-color="transparent"/>
       <stop offset="50%" stop-color="rgba(20,184,166,0.12)"/>

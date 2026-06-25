@@ -1,127 +1,134 @@
-<p align="center">
-  <img src="header.svg" alt="banner" width="100%" />
-</p>
+<div align="center">
 
-Front-end to back-end, concept to deployment. Python, TypeScript, and React — with PostgreSQL on the backend.
+```
+██████╗  █████╗ ████████╗██╗  ██╗███████╗██╗███╗   ██╗██████╗ ███████╗██████╗
+██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║████╗  ██║██╔══██╗██╔════╝██╔══██╗
+██████╔╝███████║   ██║   ███████║█████╗  ██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
+██╔═══╝ ██╔══██║   ██║   ██╔══██║██╔══╝  ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
+██║     ██║  ██║   ██║   ██║  ██║██║     ██║██║ ╚████║██████╔╝███████╗██║  ██║
+╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Samarkand,%20Uzbekistan-181818?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Open%20for%20work-181818?style=flat-square" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=DA291C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%2B+TypeScript+%2B+React;Front-end+to+back-end%2C+concept+to+ship" alt="Typing SVG" />
 
-<br>
+![](https://img.shields.io/badge/Samarkand%2C_Uzbekistan-0d0d0d?style=flat-square&logo=googlemaps&logoColor=DA291C)
+![](https://img.shields.io/badge/Open_for_work-0d0d0d?style=flat-square&logoColor=DA291C)
 
-## Stack
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/TypeScript-181818?style=flat-square&logo=typescript&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/Node.js-181818?style=flat-square&logo=nodedotjs&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/Tailwind-181818?style=flat-square&logo=tailwindcss&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/PostgreSQL-181818?style=flat-square&logo=postgresql&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/Figma-181818?style=flat-square&logo=figma&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/Vite-181818?style=flat-square&logo=vite&logoColor=DA291C" />
-  <img src="https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=DA291C" />
-</p>
+---
 
-<br>
+## `> whoami`
 
-## Projects
+```python
+developer = {
+    "name":     "Abdulaziz Baratov",
+    "alias":    "Pathfinder",
+    "location": "Samarkand, Uzbekistan",
+    "stack":    ["Python", "TypeScript", "React", "PostgreSQL"],
+    "status":   "open for work",  # hire me
+}
+```
 
-<svg viewBox="0 0 800 480" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <a href="https://github.com/BaratovAbdulaziz/emotion-link-signaling">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="4s" repeatCount="indefinite"/>
-      <rect x="20" y="20" width="370" height="210" rx="10" fill="#111" stroke="#14B8A6" stroke-opacity="0.3" stroke-width="1.5"/>
-      <rect x="20" y="20" width="370" height="3" rx="1.5" fill="#14B8A6">
-        <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
-      </rect>
-      <text x="35" y="55" fill="#14B8A6" font-family="system-ui,sans-serif" font-size="15" font-weight="bold">emotion-link-signaling</text>
-      <text x="35" y="80" fill="#888" font-family="system-ui,sans-serif" font-size="13">WebSocket signaling server for WebRTC</text>
-      <text x="35" y="100" fill="#888" font-family="system-ui,sans-serif" font-size="13">peer connections with room management.</text>
-      <rect x="35" y="130" width="60" height="22" rx="11" fill="#14B8A6" opacity="0.15"/>
-      <text x="65" y="146" fill="#14B8A6" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">Node.js</text>
-      <rect x="103" y="130" width="80" height="22" rx="11" fill="#14B8A6" opacity="0.15"/>
-      <text x="143" y="146" fill="#14B8A6" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">WebSocket</text>
-    </g>
-  </a>
-  <a href="https://github.com/BaratovAbdulaziz/no-borders">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="4.5s" repeatCount="indefinite"/>
-      <rect x="410" y="20" width="370" height="210" rx="10" fill="#111" stroke="#3B82F6" stroke-opacity="0.3" stroke-width="1.5"/>
-      <rect x="410" y="20" width="370" height="3" rx="1.5" fill="#3B82F6">
-        <animate attributeName="opacity" values="0.5;1;0.5" dur="3.5s" repeatCount="indefinite"/>
-      </rect>
-      <text x="425" y="55" fill="#3B82F6" font-family="system-ui,sans-serif" font-size="15" font-weight="bold">no-borders</text>
-      <text x="425" y="80" fill="#888" font-family="system-ui,sans-serif" font-size="13">Cross-platform KVM switch — control</text>
-      <text x="425" y="100" fill="#888" font-family="system-ui,sans-serif" font-size="13">multiple computers with one KB+mouse.</text>
-      <rect x="425" y="130" width="60" height="22" rx="11" fill="#3B82F6" opacity="0.15"/>
-      <text x="455" y="146" fill="#3B82F6" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">Python</text>
-    </g>
-  </a>
-  <a href="https://github.com/BaratovAbdulaziz/ridges">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.8s" repeatCount="indefinite"/>
-      <rect x="20" y="250" width="370" height="210" rx="10" fill="#111" stroke="#A855F7" stroke-opacity="0.3" stroke-width="1.5"/>
-      <rect x="20" y="250" width="370" height="3" rx="1.5" fill="#A855F7">
-        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
-      </rect>
-      <text x="35" y="285" fill="#A855F7" font-family="system-ui,sans-serif" font-size="15" font-weight="bold">ridges</text>
-      <text x="35" y="310" fill="#888" font-family="system-ui,sans-serif" font-size="13">AI coding agent powered by OpenRouter.</text>
-      <text x="35" y="330" fill="#888" font-family="system-ui,sans-serif" font-size="13">Bug localization and git-aware repair.</text>
-      <rect x="35" y="360" width="60" height="22" rx="11" fill="#A855F7" opacity="0.15"/>
-      <text x="65" y="376" fill="#A855F7" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">Python</text>
-      <rect x="103" y="360" width="90" height="22" rx="11" fill="#A855F7" opacity="0.15"/>
-      <text x="148" y="376" fill="#A855F7" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">OpenRouter</text>
-    </g>
-  </a>
-  <a href="https://github.com/BaratovAbdulaziz/split-evenly">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="5.2s" repeatCount="indefinite"/>
-      <rect x="410" y="250" width="370" height="210" rx="10" fill="#111" stroke="#DA291C" stroke-opacity="0.3" stroke-width="1.5"/>
-      <rect x="410" y="250" width="370" height="3" rx="1.5" fill="#DA291C">
-        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.8s" repeatCount="indefinite"/>
-      </rect>
-      <text x="425" y="285" fill="#DA291C" font-family="system-ui,sans-serif" font-size="15" font-weight="bold">split-evenly</text>
-      <text x="425" y="310" fill="#888" font-family="system-ui,sans-serif" font-size="13">Full-stack expense splitting app —</text>
-      <text x="425" y="330" fill="#888" font-family="system-ui,sans-serif" font-size="13">React + TS frontend, Supabase backend.</text>
-      <rect x="425" y="360" width="55" height="22" rx="11" fill="#DA291C" opacity="0.15"/>
-      <text x="452" y="376" fill="#DA291C" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">React</text>
-      <rect x="488" y="360" width="90" height="22" rx="11" fill="#DA291C" opacity="0.15"/>
-      <text x="533" y="376" fill="#DA291C" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">TypeScript</text>
-      <rect x="586" y="360" width="75" height="22" rx="11" fill="#DA291C" opacity="0.15"/>
-      <text x="623" y="376" fill="#DA291C" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">Supabase</text>
-      <rect x="669" y="360" width="70" height="22" rx="11" fill="#DA291C" opacity="0.15"/>
-      <text x="704" y="376" fill="#DA291C" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle" font-weight="bold">Tailwind</text>
-    </g>
-  </a>
-</svg>
+---
 
-<br>
+## `> stack`
 
-## Contact
+<div align="center">
 
-<svg viewBox="0 0 400 60" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <a href="mailto:abdulazizbaratov12@gmail.com">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="50,15;50,12;50,15" dur="2s" repeatCount="indefinite"/>
-      <rect x="0" y="0" width="130" height="32" rx="16" fill="#EA4335"/>
-      <text x="65" y="21" fill="white" font-family="system-ui,sans-serif" font-size="14" text-anchor="middle" font-weight="bold">Gmail</text>
-    </g>
-  </a>
-  <a href="https://t.me/Pathfi1nder">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="220,15;220,12;220,15" dur="2.5s" repeatCount="indefinite"/>
-      <rect x="0" y="0" width="130" height="32" rx="16" fill="#229ED9"/>
-      <text x="65" y="21" fill="white" font-family="system-ui,sans-serif" font-size="14" text-anchor="middle" font-weight="bold">Telegram</text>
-    </g>
-  </a>
-</svg>
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=DA291C)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=DA291C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=DA291C)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=DA291C)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=DA291C)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=DA291C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=DA291C)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=DA291C)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=DA291C)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=DA291C)
+![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=DA291C)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=DA291C)
 
-<p align="center">
-  <sub>React + TypeScript on the front. Python + Node.js on the back.</sub>
-</p>
+</div>
+
+---
+
+## `> projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 [emotion-link-signaling](https://github.com/BaratovAbdulaziz/emotion-link-signaling)
+
+WebSocket signaling server for WebRTC peer connections with room management.
+
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=DA291C)
+![WebSocket](https://img.shields.io/badge/WebSocket-0d0d0d?style=flat-square&logoColor=DA291C)
+![WebRTC](https://img.shields.io/badge/WebRTC-0d0d0d?style=flat-square&logoColor=DA291C)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 [no-borders](https://github.com/BaratovAbdulaziz/no-borders)
+
+Cross-platform KVM switch — control multiple computers with one keyboard and mouse.
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=DA291C)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 [ridges](https://github.com/BaratovAbdulaziz/ridges)
+
+AI coding agent powered by OpenRouter. Bug localization and git-aware repair.
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=DA291C)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0d0d0d?style=flat-square&logoColor=DA291C)
+![AI](https://img.shields.io/badge/AI-0d0d0d?style=flat-square&logoColor=DA291C)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 [split-evenly](https://github.com/BaratovAbdulaziz/split-evenly)
+
+Full-stack expense splitting app — React + TS frontend, Supabase backend.
+
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=DA291C)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=DA291C)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=DA291C)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=DA291C)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> stats`
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=BaratovAbdulaziz&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=DA291C&icon_color=DA291C&text_color=ffffff&border_color=1e1e1e)
+&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaratovAbdulaziz&layout=compact&theme=dark&bg_color=0d0d0d&title_color=DA291C&text_color=ffffff&border_color=1e1e1e)
+
+</div>
+
+---
+
+## `> contact`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-DA291C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulazizbaratov12@gmail.com)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-DA291C?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pathfi1nder)
+
+</div>
+
+<div align="center">
+  <sub>React + TypeScript on the front &nbsp;·&nbsp; Python + Node.js on the back</sub>
+</div>

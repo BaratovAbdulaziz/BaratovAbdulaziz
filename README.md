@@ -26,7 +26,6 @@ developer = {
     "alias":    "Pathfinder",
     "location": "Samarkand, Uzbekistan",
     "stack":    ["Python", "TypeScript", "React", "PostgreSQL"],
-    "status":   "open for work",  # hire me
 }
 ```
 
